@@ -14,6 +14,6 @@ Whether you're learning React for the first time or sharpening your skills, this
 
 ## 📂 Project Structure
 
-Each exercise or project is organized into its ensuring clarity and simplicity.
+Each exercise or project is organized into its folder ensuring clarity and simplicity.
 
 
