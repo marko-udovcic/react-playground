@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 10px;
+}
+.container select,
+.container input {
+  margin: 10px;
+}
