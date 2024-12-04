@@ -196,24 +196,18 @@ body {
 .grid-container {
   max-width: 1200px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /*3 kolone 1 fractional unit*/
+  grid-template-columns: repeat(3, 1fr); 
   grid-auto-rows: minmax(200px, auto);
 
   gap: 20px;
-  justify-content: center; /* Horizontalno centriranje */
-  align-items: center; /* Vertikalno centriranje */
-  height: 100vh; /* Visina ekrana za centriranje */
+  justify-content: center;
+  align-items: center; 
+  height: 100vh; 
 }
 
 .skills-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 kolone, svaki je širine 1fr (jednako raspoređeno) */
-  gap: 20px; /* Razmak između kartica */
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px; 
 }
-/*
-SPACING SYSTEM (px)
-2 / 4 / 8 / 12 / 16 / 24 / 32 / 40 / 48 / 64 / 80 / 96 / 128
 
-FONT SIZE SYSTEM (px)
-10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 /52 / 62 / 74 / 86 / 98
-*/
