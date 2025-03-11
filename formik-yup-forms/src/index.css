@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Playwrite+HU:wght@100..400&display=swap");
+@font-face {
+  font-family: "DMSans-Regular";
+  src: url(assets/fonts/DMSans-Regular.ttf);
+}
+@import "tailwindcss";
+
+@theme {
+  --color-primary-color: #1da1f2;
+  --color-secondary-color: #00ff00;
+  --font-secondary: "DMSans-Regular", sans-serif;
+  --font-primary: "Playwrite HU", sans-serif;
+}
